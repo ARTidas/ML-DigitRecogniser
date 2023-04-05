@@ -1,0 +1,32 @@
+html {
+    min-height: 100%;
+    margin: auto;
+}
+
+body {
+    background-color: #aaa;
+    text-align: center;
+    min-height: 100%;
+    margin: auto;
+}
+
+.p5Canvas {
+    /*border: 1px solid #000;
+    margin: auto;
+    margin: 10px;*/
+    border: 1px solid #000;
+    display: inline-block;
+    margin-right: 10px;
+}
+
+/*canvas {
+    border: 1px solid #000;
+    display: inline-block;
+    margin-right: 10px;
+}*/
+  
+#saliency-map {
+    border: 1px solid #000;
+    display: inline-block;
+    margin-left: 10px;
+}
